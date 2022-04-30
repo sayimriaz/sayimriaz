@@ -1,4 +1,4 @@
-Hi there 👋 I'm Sayim. I am a Frontend Web Develpment and Work as a Freelancer.
+Hi there 👋 I'm Sayim. I am a Frontend Web Development and Work as a Freelancer.
 
 - 🔭 I’m currently working on ...HTML, CSS, JS , Angular
 - 🌱 I’m currently learning ... Angular
